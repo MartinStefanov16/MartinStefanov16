@@ -1,5 +1,4 @@
-### Hi there 👋
-// TODO - add something here
+Not much going on here. Just a Java dev.
 
 <!--
 **MartinStefanov16/MartinStefanov16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
